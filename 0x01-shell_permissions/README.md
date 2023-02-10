@@ -10,3 +10,4 @@ grants permission to only all
 changes rwx perms
 mirrors the permissions from olleh to hello
 adds permission to all users of directories
+12 dir perms creates my dir with preset perms
