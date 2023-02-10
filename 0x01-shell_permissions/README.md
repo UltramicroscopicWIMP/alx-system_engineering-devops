@@ -9,3 +9,4 @@ changes the permissions of everybody
 grants permission to only all
 changes rwx perms
 mirrors the permissions from olleh to hello
+adds permission to all users of directories
