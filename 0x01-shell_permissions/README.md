@@ -4,3 +4,4 @@ switches the current user to the user betty
 4. new_owner changes the current owner to the owner betty
 5. 4-empty: creates an empty file hello
 6. execute permissions to owner of hello
+changes permissions for owner, group owner, and user on hello
