@@ -6,3 +6,4 @@ switches the current user to the user betty
 6. execute permissions to owner of hello
 changes permissions for owner, group owner, and user on hello
 changes the permissions of everybody
+grants permission to only all
