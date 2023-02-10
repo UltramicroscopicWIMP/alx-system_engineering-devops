@@ -11,3 +11,4 @@ changes rwx perms
 mirrors the permissions from olleh to hello
 adds permission to all users of directories
 12 dir perms creates my dir with preset perms
+13 change group changes group owner to school
