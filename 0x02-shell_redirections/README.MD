@@ -1,1 +1,0 @@
-output a confused smiley
